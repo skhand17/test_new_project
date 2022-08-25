@@ -1,0 +1,2 @@
+This is the new file that is being updated in the remote repository.
+I just needed to check whether this file is viewable from the local master branch
