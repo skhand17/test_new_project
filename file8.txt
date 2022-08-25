@@ -1,0 +1,2 @@
+This is a new file called 8
+I just need to check what git revert HEAD~1 command does
